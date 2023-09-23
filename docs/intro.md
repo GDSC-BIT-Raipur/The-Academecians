@@ -1,9 +1,12 @@
 ---
 slug: /
 sidebar_position: 1
+description: Introduction to "The-Academecians"
+title: Introduction
 ---
 
 # Introduction
+
 
 
 Are you an engineering student who finds solace in the adrenaline rush of last-minute study sessions? Do you belong to the esteemed ranks of CSVTU (Chhattisgarh Swami Vivekanand Technical University) students? If so, you've just stumbled upon the perfect tool to ace your exams efficiently and effectively - welcome to **The Academecians**!
@@ -46,12 +49,10 @@ Join us in this journey of academic excellence! Together, we can make last-minut
 
 Ready to embark on your last-minute learning adventure? Dive into The Academecians and supercharge your engineering education!
 
-[Explore The Academecians](link_to_website)
 
 Follow us on social media for updates, tips, and more!
 
-- Facebook: [The Academecians Facebook](link_to_facebook)
-- Twitter: [The Academecians Twitter](link_to_twitter)
-- Instagram: [The Academecians Instagram](link_to_instagram)
+- Twitter: [The Academecians Twitter](https://twitter.com/gdsc_bitr)
+- Instagram: [The Academecians Instagram](https://www.instagram.com/gdsc_bitr/)
 
 Let's unlock the potential of last-minute learning, CSVTU-style, with The Academecians! 🚀

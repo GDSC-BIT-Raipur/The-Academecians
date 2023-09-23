@@ -55,7 +55,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/GDSC-BIT-Raipur/The-Academecians",
+            "https://github.com/GDSC-BIT-Raipur/The-Academecians/tree/main",
         },
         // blog: {
         //   showReadingTime: true,
@@ -102,28 +102,25 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'First Year',
             items: [
               {
-                label: 'Docs',
-                to: '/docs/intro',
+                label: 'First Year',
+                to: '/docs/first-year',
               },
             ],
           },
           {
             title: 'Community',
             items: [
+            
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/gdsc_bitr/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/gdsc_bitr',
               },
             ],
           },
