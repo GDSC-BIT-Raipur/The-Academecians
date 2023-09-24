@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Building Construction, Foundation, Load Structures VS Framed
 ---
 
 # Building Construction

@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+description: Surveying and leveling, terminologies, reduced level calulation methods.
 ---
 
 
-# Surveying and Labeling
+# Surveying and Leveling
 
 ![surveying](../assets/surveying_diagram.png)
 ## What is surveying ?
