@@ -7,7 +7,7 @@ title: Introduction
 
 # Introduction
 
-
+![banner](../static/img/preview.png)
 
 Are you an engineering student who finds solace in the adrenaline rush of last-minute study sessions? Do you belong to the esteemed ranks of CSVTU (Chhattisgarh Swami Vivekanand Technical University) students? If so, you've just stumbled upon the perfect tool to ace your exams efficiently and effectively - welcome to **The Academecians**!
 

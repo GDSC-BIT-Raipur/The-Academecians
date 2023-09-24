@@ -129,3 +129,6 @@ In surveying and leveling, there are two primary methods used to calculate reduc
    - This method is often used for rapid surveys and rough leveling work.
 
 Both methods have their advantages and are chosen based on the specific requirements and precision needed for a surveying task. The HI method is more accurate and suitable for precise leveling, while the Rise and Fall method is quicker and often used for less precise tasks.
+
+
+<iframe src="https://chat.openai.com" title="ChatGPT" height= "400"width="100%"></iframe>
