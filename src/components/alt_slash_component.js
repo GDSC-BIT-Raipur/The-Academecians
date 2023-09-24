@@ -41,6 +41,7 @@ const AltSlashPopup = () => {
           Close
         </button> */}
         <iframe
+  scrolling="no"
 	src="https://dongsiqie-gpt35.hf.space"
   style={{ borderRadius: '10px' }}
   width="850"
